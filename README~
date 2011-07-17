@@ -1,7 +1,0 @@
-genomedrawer is a small javascript library to create images representing genome or protein annotations similar to those found on Ensembl or the UCSC Genome Browser.
-
-It depends on Raphael to do the drawing and should support any major browser (including IE). 
-
-jQuery is used in the testing pages, but the library does not.
-
-Some amount of configuration/customization is allowed.
