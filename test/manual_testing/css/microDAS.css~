@@ -1,0 +1,111 @@
+body {
+	background-color: #DDDDFF;
+	padding: 2em;
+}
+
+fieldset {
+	margin: 1em;
+	background-color: white;
+	border: 1px solid #8888FF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+table {
+	border: 1px solid black;
+	border-collapse:collapse;
+}
+
+td {
+	border: 1px solid #888888;
+	width: 10em;
+}
+
+#results {
+	margin: 1em;
+	border: 2px solid #8888FF;
+	background-color: #FFFFFF;
+	padding: 2em;
+	overflow-x: auto;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.results {
+	margin: 1em;
+	border: 2px solid #8888FF;
+	background-color: #FFFFFF;
+	padding: 2em;
+	overflow-x: auto;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.status {
+    display: block;
+    width: 80%;
+    background-color:#FFBB22;
+    padding: 0.5em;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #DD9900;
+    -webkit-box-shadow: rgba(0,0,0,0.5) 2px 2px 2px;
+    -moz-box-shadow: rgba(0,0,0,0.5) 2px 2px 2px;
+    box-shadow: rgba(0,0,0,0.5) 2px 2px 2px;
+    text-align: center;
+}
+
+.top_floating {
+	display: block;
+	position: absolute;
+	top: 1em;
+	width: 20em;
+	margin: 0 auto;
+	background-color: #FFBB22;
+}
+
+.fixed_position{
+	position:fixed;
+	top:0;
+	right:0;
+}
+
+.inline {display: inline-block;}
+
+.input_example {
+	font-size: 60%;
+	color: #8888FF;
+}
+
+table.results {
+  border-collapse: collapse;
+  border-color: black;
+  text-align: center;
+}
+
+table.results thead {
+  background-color: #AABBEE;
+}
+
+ul{
+	list-style-image: url(../images/bullet.gif);
+}
+
+li {
+	float:left;
+}
+
+ul ul{
+	list-style: square;
+	color:#8A8A8A;
+}
+
+
+#drawing_area {
+	width: 100%;
+	height: 200px;
+	display: block;
+	background-color: #EEEEFF;
+	border: 1px solid blue;
+}
