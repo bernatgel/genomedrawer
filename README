@@ -1,3 +1,5 @@
+### **ABANDONED**: This code was abandoned in 2011
+
 genomedrawer is a small javascript library to create images representing genome or protein annotations similar to those found on Ensembl or the UCSC Genome Browser.
 
 It depends on Raphael to do the drawing and should support any major browser (including IE). 
