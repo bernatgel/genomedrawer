@@ -1,3 +1,6 @@
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](http://www.repostatus.org/badges/latest/abandoned.svg)](http://www.repostatus.org/#abandoned)
+
+
 ### **ABANDONED**: This code was abandoned in 2011
 
 genomedrawer is a small javascript library to create images representing genome or protein annotations similar to those found on Ensembl or the UCSC Genome Browser.
